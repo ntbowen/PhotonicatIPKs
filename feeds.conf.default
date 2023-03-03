@@ -21,13 +21,13 @@ src-git theme_rosy https://github.com/rosywrt/luci-theme-rosy
 src-git theme_infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
 #src-git theme_neobird https://github.com/thinktip/luci-theme-neobird
 src-git theme_darkmatter https://github.com/apollo-ng/luci-theme-darkmatter.git
-src-git theme_purple https://github.com/rosywrt/luci-theme-purple
+#src-git theme_purple https://github.com/rosywrt/luci-theme-purple
 #src-git theme_opentomcat https://github.com/Leo-Jo-My/luci-theme-opentomcat
 src-git theme_vzant https://github.com/ykxVK8yL5L/luci-theme-vzant
 src-git theme_bootstrap_dark https://github.com/teohhanhui/openwrt-luci-bootstrap-dark
 #src-git theme_jj https://github.com/netitgo/luci-theme-jj
 src-git theme_ssn https://gitlab.stusta.de/stustanet/luci-theme-ssn.git
-src-git theme_anonabox https://github.com/scherbenokk/luci-anonabox-theme.git
+#src-git theme_anonabox https://github.com/scherbenokk/luci-anonabox-theme.git
 #src-git theme_commotion https://github.com/glamrock/luci-theme-commotion
 src-git theme_Night https://github.com/Aslin-Ameng/luci-theme-Night
 #src-git theme_atmaterial_ColorIcon https://github.com/esirplayground/luci-theme-atmaterial-ColorIcon
