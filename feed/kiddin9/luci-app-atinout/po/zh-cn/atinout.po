@@ -1,0 +1,50 @@
+﻿msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+"Language: zh-cn\n"
+"Last-Translator: ZagLu\n"
+
+msgid "AT Commands"
+msgstr "AT命令"
+
+msgid "AT Commands Terminal"
+msgstr "AT命令终端"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Web UI for sending AT Commands."
+msgstr "网页界面发送AT命令"
+
+msgid "User AT Commands"
+msgstr "用户AT命令"
+
+msgid "Command to send"
+msgstr "用命令发送"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Send Command"
+msgstr "发送命令"
+
+msgid "Sending commands to modem"
+msgstr "发送命令到modem"
+
+msgid "Please enter a AT Command"
+msgstr "请输入AT命令"
+
+msgid "Atinout Configuration"
+msgstr "Atinout配置"
+
+msgid "AT Commands Terminal Settings"
+msgstr "AT命令终端设置"
+
+msgid "AT Command Sending Port"
+msgstr "AT命令发送端口"
+
+msgid "Configuration panel for atinout."
+msgstr "atinout配置面板。"
+
+msgid "Each line must have the following format: 'AT Command name;AT Command'. Save to file '/etc/atcommands.user'."
+msgstr "每一行必须有如下格式：'AT命令名称;AT命令'。为方便用户，文件保存到'/etc/atcommands.user'。"

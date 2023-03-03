@@ -1,0 +1,199 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Preferred LTE Bands"
+msgstr "偏爱的LTE频段"
+
+msgid "LTE bands:"
+msgstr "LTE频段："
+
+msgid "Supported LTE bands:"
+msgstr "支持的LTE频段："
+
+msgid ""
+"Configuration modem frequency bands. More "
+"information about the modemband application on the %seko.one.pl forum%s."
+msgstr ""
+"配置modem频段。更多"
+"modemband的信息在 %sforum eko.one.pl%s。"
+
+msgid "Configure modem bands"
+msgstr "配置modem频段"
+
+msgid "Preferred bands settings"
+msgstr "偏爱的LTE频段设置"
+
+msgid "Modification of the bands:"
+msgstr "频段的变化："
+
+msgid "Modem information"
+msgstr "Modem信息"
+
+msgid "The new bands settings have been sent to the modem. If the changes are not visible, a restart of the connection, modem or router may be required."
+msgstr "新的频段设置已发送到modem。如果看不到变化，需要重启连接、modem或路由器。"
+
+msgid "Apply changes"
+msgstr "应用更改"
+
+msgid "Restore"
+msgstr "恢复"
+
+msgid "Please select a band(s)"
+msgstr "请选择一个频段(s)"
+
+msgid "Bands configuration"
+msgstr "频段配置"
+
+msgid "Restore default bands"
+msgstr "恢复默认频段"
+
+msgid "Waiting for device..."
+msgstr "等待一个设备……"
+
+msgid "Rebooting…"
+msgstr "重启中……"
+
+msgid "Perform reboot"
+msgstr "执行重启"
+
+msgid "Restart"
+msgstr "重新运行"
+
+msgid "Reboot"
+msgstr "重启"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Do you really want to restart the device?"
+msgstr "你确定要重新运行设备？"
+
+msgid "Additional options"
+msgstr "更多选项"
+
+msgid "Select the preferred band(s) for the modem."
+msgstr "为modem选择偏爱的频段(s)。"
+
+msgid "Do you really want to set up all possible bands for the modem?"
+msgstr "你确定要为modem设定所有可能的频段？"
+
+msgid "Preferred bands"
+msgstr "偏爱的频段"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Configuration luci-app-modemband"
+msgstr "配置luci-app-modemband"
+
+msgid "Configuration panel for modemband and gui application."
+msgstr "modemband的配置面板和图形界面。"
+
+msgid "Interface"
+msgstr "接口"
+
+msgid "Network interface for Internet access."
+msgstr "网络接入的接口。"
+
+msgid "WAN restart after making changes to bands."
+msgstr "频段标记改编后重启WAN 。"
+
+msgid "Modem restart"
+msgstr "Modem重启"
+
+msgid "Modem restart after making changes to bands."
+msgstr "频段标记改编后重启modem。"
+
+msgid "Restart with AT command"
+msgstr "通过AT命令重启"
+
+msgid "AT command to restart the modem."
+msgstr "AT命令重启modem."
+
+msgid "Port for communication with the modem"
+msgstr "modem通讯端口"
+
+msgid "Please select a port"
+msgstr "请选择一个端口"
+
+msgid "Select one of the available ttyUSBX ports."
+msgstr "选择一个可用的ttyUSBX端口。"
+
+msgid "No supported modem was found, quitting..."
+msgstr "未找到支持的modem，退出中……"
+
+msgid "Port not found, quitting..."
+msgstr "未找到端口，退出中……"
+
+msgid "Additional options useful for modem configuration."
+msgstr "更多有用的modem配置的可用选项。"
+
+msgid "Connection / router restart"
+msgstr "连接/路由器重启"
+
+msgid "Hint: The name of the WAN section can be changed in the package settings panel."
+msgstr "提示：WAN的名称可在包设置面板中更改。"
+
+msgid "LTE band aggregation at UL (upload)"
+msgstr "上行载波聚合（上行）"
+
+msgid "No supported modem / router was found..."
+msgstr "未找到支持的modem/路由器……"
+
+msgid "Hint: Option dedicated to the ZTE MF286D router."
+msgstr "提示：ZTE MF286D专用选项."
+
+msgid "Enable aggregation"
+msgstr "开启聚合"
+
+msgid "Disable aggregation"
+msgstr "关闭聚合"
+
+msgid "Disable"
+msgstr "关闭"
+
+msgid "Enable"
+msgstr "开启"
+
+msgid "Turn off notifications"
+msgstr "关闭通知"
+
+msgid "Checking this option disables the notification that appears every time the bands are changed."
+msgstr "正在检查这个选项关闭频段更改通知。"
+
+msgid "Modem settings template"
+msgstr "Modem设置模板"
+
+msgid "Modemband configuration"
+msgstr "Modem配置"
+
+msgid "Settings panel for the modemband application that allows you to customize the package for your modem."
+msgstr "modemband设置面板允许你自定义你的modem包。"
+
+msgid "Edit script"
+msgstr "编辑脚本"
+
+msgid "Supported bands depend on the region in which the modem operates. By modifying the DEFAULT_LTE_BANDS variable, you can easily adapt the package to your modem."
+msgstr "支持的频段取决于modeem所在的地区。通过更改默认的频段值，你可以轻松适配你的modem包。"
+
+msgid "Waiting to read data from the modem..."
+msgstr "正在等待从modem读取数据……"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Template loaded"
+msgstr "模板已加载"
+
+msgid "Refresh the view"
+msgstr "刷新视图"
+
+msgid "Reload"
+msgstr "重新加载"
+
+msgid "Select the modem settings file"
+msgstr "选择modem设置文件"
+
+msgid "Select the template assigned to the Vendor and ProdID of the modem."
+msgstr "选择分配了modem的VID和PID的模板。"
+
